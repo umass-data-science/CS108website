@@ -16,13 +16,17 @@ minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt"
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Site Title"
+title                    : "Data 8 with Jekyll"
 title_separator          : "-"
-name                     : "Your Name"
-description              : "An amazing website."
-url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
-baseurl                  : # the subpath of your site, e.g. "/blog"
-repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
+name                     : "Berkeley DSEP"
+description              : ""
+url                      : "https://predictablynoisy.com" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+baseurl                  : "/data8-template" # the subpath of your site, e.g. "/blog"
+hub_url                  : "http://104.155.140.67"  # The URL for your JupyterHub. Should be a string.
+hub_name                 : "DataHub"  # The name of your JupyterHub
+textbook_url             : "https://github.com/data-8/textbook"  # The URL for your version of the textbook on GitHub.
+textbook_branch          : "gh-pages"  # The branch on which your textbook is hosted.
+repository               : # GitHub username/repo-name for this site
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
 # breadcrumbs            : false # true, false (default)
 words_per_minute         : 200
@@ -98,10 +102,10 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Name"
+  name             : "Data 8 Team"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "I am an amazing person."
-  location         : "Somewhere"
+  bio              : ""
+  location         : "Berkeley, CA."
   email            :
   uri              :
   home             : # null (default), "absolute or relative url to link to author home"

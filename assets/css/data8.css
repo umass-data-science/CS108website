@@ -1,0 +1,120 @@
+/* Data 8 formatting for code cells and interact buttons. Note that everything
+here is "! important" because we need to overwrite the theme defaults. */
+
+#ipython-notebook a.interact-button {
+  background-color: #477DCA;
+  border-radius: 3px;
+  color: #FFF;
+  display: inline-block;
+  font-size: 1.2em;
+  font-weight: 500;
+  margin-bottom: 1.2em;
+  padding: .4em 1em
+}
+
+#ipython-notebook .interact-button:hover,#ipython-notebook .interact-button:focus
+{
+  text-decoration:none;
+}
+
+#ipython-notebook pre {
+  padding: .85em 1em;
+  margin-top: 0em;
+}
+
+.highlight {
+  padding-left: 0px !important;
+}
+
+.input_area pre {
+    border: 1px solid #CCC;
+    margin-bottom: 8px;
+    background: #f7f7f7;
+    padding: 2% 0% 2% 2%;
+}
+
+.inner_cell, .output_html, .output_png, .output_text, .page__content p, .page__content li, .page__content dl {
+    font-size: .8em !important;
+}
+
+/* Output cells */
+
+.output_text, .output_png {
+    padding-left: 0px;
+}
+
+.output_html {
+    padding-left: 1em;
+}
+
+
+.output_text pre {
+    background-color: #F8F8FB;
+}
+
+.output_html,.output_png::before
+{
+  padding:1em 1.5em;
+}
+
+/* Code coloring */
+
+.ansicyan,pre .kn
+{
+  color:#0080FF !important;
+}
+
+.ansigreen,pre .n,pre .nb
+{
+  color:#690 !important;
+}
+
+.ansired
+{
+  color:red !important;
+}
+
+pre .nn
+{
+  color:#FFC0CB !important;
+}
+
+.output_png img,p img
+{
+  max-width:100% !important;
+}
+
+pre .o,pre .k
+{
+  color:purple !important;
+}
+
+pre .p,pre .c
+{
+  color:#999 !important;
+}
+
+/* Black font text */
+pre .c1,pre .s1, pre .s2,pre .mi, pre .mf
+{
+  color: rgb(51, 51, 51) !important;
+}
+
+.hl-ipython3 pre::before,.output_subarea pre::before,.output_html::before,.output_png::before
+{
+  color:#ccc !important;
+  float:left !important;
+  margin-bottom:.25em !important;
+  width:100% !important;
+}
+
+blockquote
+{
+  background-color:rgba(245,245,245,0.8) !important;
+  border-left:5px solid #eee !important;
+}
+
+blockquote p
+{
+  margin-top:0 !important;
+}
