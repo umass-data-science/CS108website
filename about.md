@@ -6,6 +6,8 @@ permalink: /about/
 
 This is a test change. This should be reflected in the site.
 
+This is a local change. 
+
 Data 8 is a "Foundations in Data Science" course taught for first year students
 at UC Berkeley. It combines principles/skills in statistics, programming,
 inference, modeling, hypothesis testing, visualization, and exploration.
