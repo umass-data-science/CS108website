@@ -7,7 +7,7 @@ permalink: /policy/
 
 ### Course Description
 
-Foundations of Data Science combines three perspectives: inferential thinking, computational    thinking, and real-world relevance. Given data arising from some real-world phenomenon, how does one analyze that data so as to understand that phenomenon? The course teaches critical concepts and skills in computer programming and statistical inference, in conjunction with hands-on analysis of real-world datasets, including economic data, document collections, geographical data, and social networks. It delves into social issues surrounding data analysis such as privacy and design.
+The field of Data Science encompasses methods, processes, and systems that enable the extraction of useful knowledge from data. Foundations of Data Science introduces core data science concepts including computational and inferential thinking, along with core data science skills including computer programming and statistical methods. The course presents these topics in the context of hands-on analysis of real-world data sets, including economic data, document collections, geographical data, and social networks. The course also explores social issues surrounding data analysis such as privacy and design. 
 
 ### Prerequisites
 
@@ -15,84 +15,47 @@ This course does not have any prerequisites beyond high-school algebra. The curr
 
 ### Materials and Resources
 
-Our primary text is an online book called [Computational and Inferential Thinking: The Foundations of Data Science](https://umass-data-science.github.io/190fwebsite/textbook/). This text was written for the course by Ani Adhikari and John DeNero of University of California, Barkeley.
+Our primary text is the online book called [Computational and Inferential Thinking: The Foundations of Data Science](https://umass-data-science.github.io/190fwebsite/textbook/). This text was written for the course by Ani Adhikari and John DeNero of University of California, Barkeley. The computing platform for the course is hosted at [http://datahub.cs.umass.edu/](http://datahub.cs.umass.edu/). Students find it convenient to use their own computer for the course. 
 
-The computing platform for the course is hosted at [http://datahub.cs.umass.edu/](http://datahub.cs.umass.edu/). Students find it convenient to use their own computer for the course. 
+### Grades
 
-### Support
-
-You are not alone in this course; the staff and instructors are here to support you as you learn the material. It's expected that some aspects of the course will take time to master, and the best way to master challenging material is to ask questions. For online questions, use [Piazza](http://piazza.com/). We will also hold office hours (**Put in 190f office hours**) for in-person discussions. 
-
-### Labs (Modify)
-
-Weekly labs are a required part of the course. After the first week, labs will be released on Sunday night. You can get credit for each lab in one of two ways described below:
-
-  * Attend your own assigned lab section, make progress substantial enough for your work to be checked off by course staff, and submit your lab (even if it is incomplete) by the end of the lab period.
-
-  * Complete the lab independently and submit the completed lab by the Wednesday of the same week at 9:59 a.m. "Completing a lab" means passing all tests included in the lab.
-
-### Homeworks and Projects (Modify)
-
-Weekly homework assignments are a required part of the course. Each student must submit each homework independently, but are allowed to discuss problems with other students and course staff. See the "Learning Cooperatively" section below.
-
-If you submit a homework or project 24 hours before the deadline or earlier, you will receive 1 bonus point on that assignment.
-
-Data science is about analyzing real-world data sets, and so a series of projects involving real data are a required part of the course. On each project, you may work with a single partner; your partner must be from your assigned lab section.
-
-### Exams (Modify)
-
-The midterm exam will be held during the class period on Friday, March 9th. Rooms will be announced closer to the date.
-
-The final exam will be held from 3 p.m. to 6 p.m. on Tuesday, May 8th. Rooms will be announced closer to the date.
-
-Unless you have accommodations as determined by the university and approved by the instructor, you must take the midterm and the final at the dates and times provided here. Please check your course schedule and make sure that you have no conflicts with these exams.
-
-### Participation (Modify)
-
-Participation points must be earned by attending lecture. As a class majority attended Data 8 lecture during the first 2 weeks of attendance collection, everyone will get full credit for the 1% participation portion of the grade.
-
-### Grades (Modify)
-
-Grades will be assigned using the following weighted components:
+The coursework will consist of weekly homework assignments, weekly labs, a midterm exam and a final exam. The lowest two homework grades and the lowest two lab grades will be dropped from your homework and lab totals. The grading scheme is shown below:
 
 | Activity        | Grade      | 
 | :-------------: | :--------: | 
-| Participation   | 1%         | 
-| Lab             | 11%        | 
-| Homework        | 21%        | 
-| Project         | 26%        | 
-| Midterm         | 10%        | 
-| Final           | 31%        |
+| Homework        | 35%        | 
+| Labs            | 15%        | 
+| Midterm Exam    | 25%        | 
+| Final Exam      | 25%        |
 
-### Late Submission (Modify)
+### Late Submission Policy
 
-Late submissions of labs will not be accepted under any circumstances. The same goes for homework, unless you have relevant DSP accommodations that provide a two-day extension on homework assignments.
+Labs must be submitted by the end of the lab session. Homework assignments must be submitted by the date and time they are due. Work submitted late will not count for credit. 
 
-Your lowest two homework scores and your lowest lab score will be dropped in the calculation of your overall grade.
+### Regrading Policy
 
-Projects will be accepted up to 2 days (48 hours) late; a project submitted less than 24 hours after the deadline will receive 2/3 credit, a project submitted between 24 and 48 hours after the deadline will receive 1/3 credit, and a project submitted 48 hours or more after the deadline will receive no credit. 
+Errors in grading of assignments, labs and exams can occur despite the best efforts of the course staff. If you believe you've found a grading error, please submit a re-grade request. Re-grade requests must be submitted no later than one week after a graded item is returned. Note that when a re-grade request is received, the complete assignment, lab, or exam will be re-graded from scratch. This may result in your original grade increasing, decreasing or staying the same as appropriate. 
 
-### Waitlisted Students (Modify)
+### Homework Collaboration Policy
 
-If you are on the waitlist, please do all coursework and attend labs and lectures in accordance to the deadlines.
+You are encouraged to discuss homework problems with other students; however, to avoid issues with the course’s academic honesty policy, you should not take any materials out of such discussions (writing, whiteboard photos, code, etc.). You should never share your completed or in-progress code or write-up with another student in any form, or request to see another student’s code or write-up. Your code and written solutions must be your own work. 
 
-If you enroll or join the waitlist after Week 1, you must contact your assigned Lab TA (see Staff Page) (**Put 190f staff page**) by email as soon as you add the course. The email must include your full name, Student ID number, date you added the course, and your @umass.edu email address. Once we receive your email, we will explain the prorating policy.
+### Course Academic Honesty Statement
 
-### Learning Cooperatively (Modify)
+Copying any solution materials from external sources (books, web pages, etc.) or from other students is considered cheating. Sharing your code or solutions with other students is also considered cheating. All instances of suspected cheating will be dealt with through official UMass Amherst Academic Honesty Procedures. Students are expected to be familiar with the relevant policies and procedures:
+[http://www.umass.edu/honesty/](http://www.umass.edu/honesty/)
 
-With the obvious exception of exams, we encourage you to discuss all of the course activities with your friends and classmates as you are working on them. You will definitely learn more in this class if you work with others than if you do not. Ask questions, answer questions, and share ideas liberally.
+### UMass Academic Honesty Statement
 
-If some emergency takes you away from the course for an extended period, or if you decide to drop the course for any reason, please don't just disappear silently! You should inform your project partner (if you have one), so that nobody is expecting you to do something you can't finish.
+Since the integrity of the academic enterprise of any institution of higher education requires honesty in scholarship and research, academic honesty is required of all students at the University of Massachusetts Amherst. Academic dishonesty is prohibited in all programs of the University. Academic dishonesty includes but is not limited to: cheating, fabrication, plagiarism, and facilitating dishonesty. Appropriate sanctions may be imposed on any student who has committed an act of academic dishonesty. Instructors should take reasonable steps to address academic misconduct. Any person who has reason to believe that a student has committed academic dishonesty should bring such information to the attention of the appropriate course instructor as soon as possible. Instances of academic dishonesty not related to a specific course should be brought to the attention of the appropriate department Head or Chair. Since students are expected to be familiar with this policy and the commonly accepted standards of academic integrity, ignorance of such standards is not normally sufficient evidence of lack of intent: 
+[http://www.umass.edu/dean_students/codeofconduct/acadhonesty/](http://www.umass.edu/dean_students/codeofconduct/acadhonesty/)
 
-### Academic Honesty (Modify)
+### Accommodation Statement
 
-Collaboration has a limit, however. You should not share your code or answers directly with other students. Doing so doesn't help them; it just sets them up for trouble on exams.
+The University of Massachusetts Amherst is committed to providing an equal educational opportunity for all students. If you have a documented physical, psychological, or learning disability on file with Disability Services (DS), you may be eligible for reasonable academic accommodations to help you succeed in this course. If you have a documented disability that requires an accommodation, please notify the instructors within the first two weeks of the semester so that we may make appropriate arrangements.
 
-Make a serious attempt at the assignment yourself, and then discuss your doubts with others. In this way you, and they, will get more out of the discussion.
+### Course Particiation
 
-Please write up your answers in your own words and don't share your completed work. The exception to this rule is that you can share everything related to a project with your project partner and turn in one project between you.
+Students are expected to attend each class and lab session.
 
-Penalties for cheating are severe - they range from a zero grade for the assignment or exam up to an F in the course, or even dismissal from the University.
-
-Rather than copying someone else's work, ask for help. You are not alone in this course! The course staff is here to help you succeed. We expect that you will work with integrity and with respect for other members of the class, just as the course staff will work with integrity and with respect for you.
 
