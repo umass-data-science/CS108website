@@ -9,13 +9,10 @@ permalink: /policy/
 
 The field of Data Science encompasses methods, processes, and systems that enable the extraction of useful knowledge from data. Foundations of Data Science introduces core data science concepts including computational and inferential thinking, along with core data science skills including computer programming and statistical methods. The course presents these topics in the context of hands-on analysis of real-world data sets, including economic data, document collections, geographical data, and social networks. The course also explores social issues surrounding data analysis such as privacy and design. 
 
-### Prerequisites
-
-This course does not have any prerequisites beyond high-school algebra. The curriculum and format is designed specifically for students who have not previously taken statistics or computer science courses. Students with some prior experience in either statistics or computing are welcome to enroll and will find much of interest due to the innovative nature of the course. Students who have taken several statistics or computer science courses should instead take a more advanced course.
 
 ### Materials and Resources
 
-Our primary text is the online book called [Computational and Inferential Thinking: The Foundations of Data Science](https://umass-data-science.github.io/190fwebsite/textbook/). This text was written for the course by Ani Adhikari and John DeNero of University of California, Barkeley. The computing platform for the course is hosted at [http://datahub.cs.umass.edu/](http://datahub.cs.umass.edu/). Students find it convenient to use their own computer for the course. 
+Our primary text is the online book called [Computational and Inferential Thinking: The Foundations of Data Science](https://umass-data-science.github.io/190fwebsite/textbook/). This text was written by Ani Adhikari and John DeNero of University of California, Barkeley. The computing platform for the course is hosted at [http://datahub.cs.umass.edu/](http://datahub.cs.umass.edu/). Students will need access to a laptop with a modern web browser to complete the lab exercises, or will need to register for a lab section held in a computer lab facility. Computer access is also required to complete homework assignments.
 
 ### Grades
 
