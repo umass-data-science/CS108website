@@ -1,7 +1,7 @@
 # main links
 main:
-  - title: "Schedules"
-    url: /schedules/
+  - title: "Schedule"
+    url: /schedule/
   - title: "Policies"
     url: /policies/
   - title: "Textbook"
