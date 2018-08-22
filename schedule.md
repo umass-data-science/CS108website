@@ -1,6 +1,6 @@
 ---
-title: Course Schedules
-permalink: /schedules/
+title: Course Schedule
+permalink: /schedule/
 layout: single
 ---
 | Date          | Topic                     | Reading             																																													| Lecture          | Assignment |
