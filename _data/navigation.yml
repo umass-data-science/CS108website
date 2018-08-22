@@ -1,9 +1,9 @@
 # main links
 main:
-  - title: "Schedule"
-    url: /syllabus/
+  - title: "Schedules"
+    url: /schedules/
   - title: "Policies"
-    url: /policy/
+    url: /policies/
   - title: "Textbook"
     url: /textbook/
   - title: "Resources"

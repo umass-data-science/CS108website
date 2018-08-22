@@ -1,12 +1,14 @@
 ---
-title: Course Syllabus
-permalink: /syllabus/
+title: Course Schedules
+permalink: /schedules/
 layout: single
 ---
 | Date          | Topic                     | Reading             																																													| Lecture          | Assignment |
 | ------------- | ------------------------- | :---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: | ---------------- | ---------- |
 | Wed, 09/05    | Inroduction               | [1.1](https://umass-data-science.github.io/190fwebsite/textbook/01/1/intro/), [1.2](https://umass-data-science.github.io/190fwebsite/textbook/01/2/why-data-science/), [1.3](https://umass-data-science.github.io/190fwebsite/textbook/01/3/plotting-the-classics/)   													  	        |                  |            |
 | Fri, 09/07    | Cause and Effect          | [Chapter 2](https://umass-data-science.github.io/190fwebsite/textbook/02/causality-and-experiments/)                    																		    															|                  |            |
+
+<!---
 | Mon, 09/10    | Tables         	    | [Chapter 3](https://umass-data-science.github.io/190fwebsite/textbook/03/programming-in-python/)                   	 																	    															|                  |            |
 | Wed, 09/12    | Data Types         	    | [Chapters 4](https://umass-data-science.github.io/190fwebsite/textbook/04/data-types/), [5](https://umass-data-science.github.io/190fwebsite/textbook/05/sequences/)                    										    															|                  |            |
 | Fri, 09/14    | Building Tables           | [6.1](https://umass-data-science.github.io/190fwebsite/textbook/06/1/sorting-rows/), [6.2](https://umass-data-science.github.io/190fwebsite/textbook/06/2/selecting-rows/)                    									    															|                  |            |
@@ -23,7 +25,7 @@ layout: single
 | Wed, 10/10    | A/B Testing          	    | [12.1](https://umass-data-science.github.io/190fwebsite/textbook/12/1/ab-testing/), [12.2](https://umass-data-science.github.io/190fwebsite/textbook/12/2/deflategate/)                    																								|                  |            |
 | Fri, 10/12    | Causality         	    | [12.3](https://umass-data-science.github.io/190fwebsite/textbook/12/3/causality/)                    																																			|                  |            |
 | Mon, 10/15    | Examples         	    |                     																																													|                  |            |
-| Wed, 10/17    | Midterm         	    |                     																																													|                  |            |
+| Wed, 10/25    | Midterm         	    |                     																																													|                  |            |
 | Fri, 10/19    | Confidence Intervals      | [13](https://umass-data-science.github.io/190fwebsite/textbook/13/estimation/), [13.1](https://umass-data-science.github.io/190fwebsite/textbook/13/1/percentiles/), [13.2](https://umass-data-science.github.io/190fwebsite/textbook/13/2/bootstrap/)                    														|                  |            |
 | Mon, 10/22    | Interpreting Confidence   | [13.3](https://umass-data-science.github.io/190fwebsite/textbook/13/3/confidence-intervals/), [13.4](https://umass-data-science.github.io/190fwebsite/textbook/13/4/using-confidence-intervals/)                    																					|                  |            |
 | Wed, 10/24    | Center and Spread         | [14](https://umass-data-science.github.io/190fwebsite/textbook/14/why-the-mean-matters/), [14.1](https://umass-data-science.github.io/190fwebsite/textbook/14/1/properties-of-the-mean/), [14.2](https://umass-data-science.github.io/190fwebsite/textbook/14/2/variability/)                    												|                  |            |
@@ -43,3 +45,4 @@ layout: single
 | Wed, 12/05    | Review          	    |                     																																													|                  |            |
 | Fri, 12/07    | Conclusion          	    |                     																																													|                  |            |
 
+-->

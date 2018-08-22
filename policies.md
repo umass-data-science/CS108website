@@ -1,8 +1,8 @@
 ---
-title: Policy
+title: Policies
 layout: single
 author_profile: false
-permalink: /policy/
+permalink: /policies/
 ---
 
 ### Course Description

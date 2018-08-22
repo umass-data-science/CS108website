@@ -16,7 +16,7 @@ minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt"
 
 # Site Settings
 locale                   : "en-US"
-title                    : "UMass COMPSCI 190F Foundations of Data Science"
+title                    : "UMass 190F: Foundations of Data Science"
 title_separator          : "-"
 name                     : "UMass 190F"
 description              : ""
