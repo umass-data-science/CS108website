@@ -14,6 +14,7 @@ Python has recruited enthusiasts from many professions that use data to draw
 conclusions. By learning the Python language, you will join a
 million-person-strong community of software developers and data scientists.
 
+<!--
 **Getting Started.** The easiest and recommended way to start writing programs
 in Python is to log into the companion site for this text,
 [datahub.berkeley.edu](https://datahub.berkeley.edu). If you have a @berkeley.edu
@@ -22,6 +23,8 @@ on that site. If not, please
 [complete this form](https://goo.gl/forms/saQpxdqzS2rKxjTc2) to request access.
 
 You are not at all restricted to using this web-based programming environment.
+-->
+
 A Python program can be executed by any computer, regardless of its
 manufacturer or operating system, provided that support for the language is
 installed. If you wish to install the version of Python and its accompanying

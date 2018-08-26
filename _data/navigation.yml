@@ -4,15 +4,12 @@ main:
     url: /schedule/
   - title: "Policies"
     url: /policies/
+  - title: "Office Hours"
+    url: /office_hours/
   - title: "Textbook"
     url: /textbook/
   - title: "Resources"
     url: /resources/
-    sublinks:
-      - title: A
-        url: /A/
-      - title: B
-        url: /B/
 
 # Textbook sidebar - don't edit these directly
 sidebar-textbook:
