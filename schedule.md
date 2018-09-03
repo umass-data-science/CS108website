@@ -5,7 +5,7 @@ layout: single
 ---
 | Date          | Topic                     | Reading             																																													| Lecture          | Assignment |
 | ------------- | ------------------------- | :---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: | ---------------- | ---------- |
-| Wed, 09/05    | Inroduction               | [1.1](https://umass-data-science.github.io/190fwebsite/textbook/01/1/intro/), [1.2](https://umass-data-science.github.io/190fwebsite/textbook/01/2/why-data-science/), [1.3](https://umass-data-science.github.io/190fwebsite/textbook/01/3/plotting-the-classics/)   													  	        |                  |            |
+| Wed, 09/05    | Introduction               | [1.1](https://umass-data-science.github.io/190fwebsite/textbook/01/1/intro/), [1.2](https://umass-data-science.github.io/190fwebsite/textbook/01/2/why-data-science/), [1.3](https://umass-data-science.github.io/190fwebsite/textbook/01/3/plotting-the-classics/)   													  	        |                  |            |
 | Fri, 09/07    | Cause and Effect          | [Chapter 2](https://umass-data-science.github.io/190fwebsite/textbook/02/causality-and-experiments/)                    																		    															|                  |            |
 
 <!---
