@@ -16,9 +16,9 @@ Thu 11:30-12:20 190F-01LM
 Thu 2:30-3:20 190F-01LQ
 
 #### Instructor office hours
-
-Wed 10:00-11:00  
-Wed 11:00-12:00
+  
+Wed 11:00-12:00  
+LGRC Room 355
 
 #### TA office hours
 
