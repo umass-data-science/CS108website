@@ -7,13 +7,16 @@ permalink: /office_hours/
 
 #### Class
 
-Mon-Wed-Fri 4:00-4:50.  
-Macrus Hall Room 131. 
+Mon-Wed-Fri 4:00-4:50  
+Macrus Hall Room 131 
 
 #### Lab
 
-Thu 11:30-12:20 190F-01LM   
-Thu 2:30-3:20 190F-01LQ
+Thu 11:30-12:20 190F-01LM
+LGRT Room 204  
+   
+Thu 2:30-3:20 190F-01LQ  
+LGRT Room 225
 
 #### Instructor office hours
   
