@@ -16,7 +16,10 @@ Thu 11:30-12:20 190F-01LM
 LGRT Room 204  
    
 Thu 2:30-3:20 190F-01LQ  
-LGRT Room 225
+LGRT Room 225  
+
+Fri 2:30 - 3:20 190F 11LR
+LGRC Room A203
 
 #### Instructor office hours
   
@@ -25,5 +28,5 @@ LGRC Room 355
 
 #### TA office hours
 
-Mon-Thu 1:00-2:00  
+Mon and Thu 1:00-2:00  
 LGRT Room T220
