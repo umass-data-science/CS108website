@@ -3,7 +3,7 @@ title: Course Schedule
 permalink: /schedule/
 layout: single
 ---
-| Date          | Topic                     	| Reading/Information             																																													| Lecture          | Homework	| Lab		|
+| Date          | Topic                     	| Reading/Information             																																											| Lecture          | Homework	| Lab		|
 | ------------- | ------------------------- 	| :-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: | ---------------- | ---------- | ------------- |
 | Wed, 09/05    | Introduction             	| [1.1](https://umass-data-science.github.io/190fwebsite/textbook/01/1/intro/), [1.2](https://umass-data-science.github.io/190fwebsite/textbook/01/2/why-data-science/), [1.3](https://umass-data-science.github.io/190fwebsite/textbook/01/3/plotting-the-classics/)   													  	| [PDF](https://umass-data-science.github.io/190fwebsite/lectures/Lecture01-Introduction.pdf), [Notebook](http://datahub.cs.umass.edu/hub/user-redirect/git-sync?repo=https://github.com/umass-data-science/materials-fa18&subPath=lec/lec01.ipynb)                     |            |		|
 | Fri, 09/07    | Cause and Effect          	| [Chapter 2](https://umass-data-science.github.io/190fwebsite/textbook/02/causality-and-experiments/)                    																		    														| [PDF](https://umass-data-science.github.io/190fwebsite/lectures/Lecture02-CauseandEffect.pdf)                 																			|            |		|
@@ -27,8 +27,8 @@ layout: single
 | Fri, 10/19    | Interpreting Confidence   	| [13.3](https://umass-data-science.github.io/190fwebsite/textbook/13/3/confidence-intervals/), [13.4](https://umass-data-science.github.io/190fwebsite/textbook/13/4/using-confidence-intervals/)                    																					|                  |            |		|
 | Mon, 10/22    | Examples/Midterm Review      	|                     																																													|                  |            |		|
 | Wed, 10/24    | Examples/Midterm Review   	| 																																															|                  |            |		|
-| Thu, 10/25    | Midterm	              	| Integrative Learning Center (ILC)<br/> (**7:00 - 9:00 PM**)                  																																						|                  |            |		|
-| Fri, 10/26    | No Class     			|                     																																													|                  |            |		|
+| Thu, 10/25    | Midterm	              	| Integrative Learning Center (ILC)<br/> (**7:00 - 9:00 PM**)                  																																						|                  |            | No Lab	|
+| Fri, 10/26    | No Class     			|                     																																													|                  |            | No Lab	|
 
 <!---
 
