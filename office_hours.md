@@ -23,8 +23,8 @@ LGRC Room A203
 
 #### Instructor office hours
   
-Wed 11:00-12:00  
-LGRC Room 355
+Wed and Fri 1:00-3:00  
+LGRT Room 1444
 
 #### TA office hours
 
