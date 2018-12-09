@@ -1,5 +1,5 @@
 ---
-title: Solution to HW03, HW04, HW05 and LAB05, LAB06 are posted. 
+title: Solution to LAB07, LAB08, LAB09 and LAB10 are posted. 
 ---
 
 [Click this link for the solution notebook for LAB07](http://datahub.cs.umass.edu/hub/user-redirect/git-sync?repo=https://github.com/umass-data-science/materials-fa18&subPath=solution/lab/lab07/lab07.ipynb)
