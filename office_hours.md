@@ -7,26 +7,24 @@ permalink: /office_hours/
 
 #### Class
 
-Mon-Wed-Fri 4:00-4:50  
-Macrus Hall Room 131 
+Tue/Thu 10:00-11:15  
+Morrill 1, Room N375 
 
 #### Lab
 
-Thu 11:30-12:20 190F-01LM  
-LGRT Room 204  
+Mon 1:25-2:15 190F-01LL  
+LGRT Room 143 
    
-Thu 2:30-3:20 190F-01LQ  
-LGRT Room 225  
+Mon 9:05-9:55 190F-01LM  
+LGRT Room 173  
 
-Fri 2:30-3:20 190F-11LR  
-LGRC Room A203
 
 #### Instructor office hours
   
-Wed and Fri 1:00-3:00  
-LGRT Room 1444
+Fri 12:30-2:30  
+LGRT Room 1530
 
 #### TA office hours
 
-Mon and Thu 1:00-2:00  
-LGRT Room T220
+Day TBD  
+Loc TBD
