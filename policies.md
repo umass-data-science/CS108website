@@ -12,7 +12,7 @@ The field of Data Science encompasses methods, processes, and systems that enabl
 
 ### Materials and Resources
 
-Our primary text is the online book called [Computational and Inferential Thinking: The Foundations of Data Science](https://umass-data-science.github.io/190fwebsite/textbook/). This text was written by Ani Adhikari and John DeNero of University of California, Barkeley. The computing platform for the course is hosted at [http://datahub.cs.umass.edu/](http://datahub.cs.umass.edu/). Students will need access to a laptop with a modern web browser to complete the lab exercises, or will need to register for a lab section held in a computer lab facility. Computer access is also required to complete homework assignments.
+Our primary text is the online book called [Computational and Inferential Thinking: The Foundations of Data Science](https://umass-data-science.github.io/190fwebsite/textbook/). This text was written by Ani Adhikari and John DeNero of University of California, Barkeley. The computing platform for the course is hosted at [http://datahub.cs.umass.edu/](http://datahub.cs.umass.edu/). Students will need access to a laptop with a modern web browser to complete the lab exercises, or will need to register for a lab section held in a computer lab facility. Computer access is also required to complete homework assignments.  Note that DataHub, which we will use for labs and homework assignments, may log you out of the system after 20 minutes of inactivity.
 
 ### Grades
 
