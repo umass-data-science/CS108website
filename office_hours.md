@@ -13,10 +13,10 @@ Morrill 1, Room N375
 #### Lab
 
 Mon 1:25-2:15 190F-01LL  
-LGRT Room 143 
+LGRC A210
    
 Mon 9:05-9:55 190F-01LM  
-LGRT Room 173  
+Morrill 3 Room 212  
 
 
 #### Instructor office hours
@@ -26,5 +26,5 @@ LGRT Room 1530
 
 #### TA office hours
 
-Day TBD  
-Loc TBD
+Tue/Thu 4-5pm  
+LGRT 1437
