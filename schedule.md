@@ -3,6 +3,7 @@ title: Course Schedule
 permalink: /schedule/
 layout: single
 ---
+
 | Date          | Topic                     	| Reading/Information             																																											| Lecture          | Homework	| Lab		|
 | ------------- | ------------------------- | :-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: | ---------------- | ---------- | ------------- |
 | Tue, 01/21    | Introduction; Cause and Effect      	| [1.1](https://umass-data-science.github.io/190fwebsite/textbook/01/1/intro/), [1.2](https://umass-data-science.github.io/190fwebsite/textbook/01/2/why-data-science/), [1.3](https://umass-data-science.github.io/190fwebsite/textbook/01/3/plotting-the-classics/), [Chapter 2](https://umass-data-science.github.io/190fwebsite/textbook/02/causality-and-experiments/)   													  	| [PDF](https://umass-data-science.github.io/190fwebsite/lectures/Lecture-01-Introduction.pdf), [Notebook](http://datahub.cs.umass.edu/hub/user-redirect/git-sync?repo=https://github.com/umass-data-science/materials-sp20&subPath=lec/lec01b.ipynb)                     |            |		|
