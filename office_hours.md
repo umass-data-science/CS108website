@@ -23,10 +23,12 @@ Morrill 3 Room 212
 
 Fri 12:30-2:30  
 LGRT Room 1530
+
 email: chosman@math.umass.edu
 
 #### TA office hours
 
 Tue/Thu 4-5pm  
 LGRT 1437
+
 email: tjcook@math.umass.edu
