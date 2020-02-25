@@ -29,6 +29,6 @@ email: chosman@math.umass.edu
 #### TA office hours
 
 Tue/Thu 4-5pm  
-LGRT 1437
+LGRT 170
 
 email: tjcook@math.umass.edu
