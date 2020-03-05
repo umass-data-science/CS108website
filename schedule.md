@@ -23,7 +23,7 @@ layout: single
 | Thu, 02/27    | Comparing Distributions; Decisions and Uncertainty  	| [11.2](https://umass-data-science.github.io/190fwebsite/textbook/11/2/multiple-categories/), [11.3](https://umass-data-science.github.io/190fwebsite/textbook/11/3/decisions-and-uncertainty/)                    																						| [PDF](https://umass-data-science.github.io/190fwebsite/lectures/Lecture-10-Hypothesis-Testing.pdf), [Notebook](http://datahub.cs.umass.edu/hub/user-redirect/git-sync?repo=https://github.com/umass-data-science/materials-sp20&subPath=lec/lec10.ipynb)          |            |		|
 | Mon, 03/02    |         	    	|                 						|                  		|    | Midterm Review	|
 | Tue, 03/03    | Error probabilities; A/B testing 	|[Chapter 12](https://umass-data-science.github.io/190fwebsite/textbook/12/comparing-two-samples/) | [PDF](https://umass-data-science.github.io/190fwebsite/lectures/Lecture-11-Error-Probabilities-and-AB-testing.pdf), [Notebook](http://datahub.cs.umass.edu/hub/user-redirect/git-sync?repo=https://github.com/umass-data-science/materials-sp20&subPath=lec/lec11_SP20.ipynb)          |	|             			|
-| Thu, 03/05    | Midterm Review 	|  |Midterm: 7-9PM,    0221 ISB|             			|
+| Thu, 03/05    | Midterm Review 	|[PDF](https://umass-data-science.github.io/190fwebsite/lectures/Lecture-12-Midterm-Review.pdf)  |Midterm: 7-9PM,    0221 ISB|             			|
 
 <!---
 | Mon, 03/09    |         	    	|                 						|                  		|    | [LAB06: Examining the Therapeutic Touch](http://datahub.cs.umass.edu/hub/user-redirect/git-sync?repo=https://github.com/umass-data-science/materials-sp20&subPath=lab/lab06/lab.ipynb)	|
