@@ -30,5 +30,7 @@ email: chosman@math.umass.edu
 
 Tue/Thu 4-5pm  
 LGRT 170
+
 [Zoom](https://umass-amherst.zoom.us/j/603135376)
+
 email: tjcook@math.umass.edu
