@@ -6,15 +6,7 @@ permalink: /resources/
 
 # Python Reference 
 
-### Practice questions for midterm
-
-|Questions| Solutions|
-|[Practice 1](https://umass-data-science.github.io/190fwebsite/practice/1.pdf) | [Solution 1](https://umass-data-science.github.io/190fwebsite/practice/1s.pdf)|
-|[Practice 2](https://umass-data-science.github.io/190fwebsite/practice/2.pdf) | [Solution 2](https://umass-data-science.github.io/190fwebsite/practice/2s.pdf)|
-|[Practice 3](https://umass-data-science.github.io/190fwebsite/practice/3.pdf) | [Solution 3](https://umass-data-science.github.io/190fwebsite/practice/3s.pdf)|
-|[Practice 4](https://umass-data-science.github.io/190fwebsite/practice/4.pdf) | [Solution 4](https://umass-data-science.github.io/190fwebsite/practice/4s.pdf)|
-|[Practice 5](https://umass-data-science.github.io/190fwebsite/practice/5.pdf) | [Solution 5](https://umass-data-science.github.io/190fwebsite/practice/5s.pdf)| 									      |
-
+									      
 ### Table Functions and Methods
 
 In the examples in the left column, <mark style="background-color:aqua;">np</mark> refers to the NumPy module, as usual. Everything else is a function, a method, an example of an argument to a function or method, or an example of an object we might call the method on. For example, <mark style="background-color:aqua;">tbl</mark> refers to a table, <mark style="background-color:aqua;">array</mark> refers to an array, and <mark style="background-color:aqua;">num</mark> refers to a number. <mark style="background-color:aqua;">array.item(0)</mark> is an example call for the method <mark style="background-color:aqua;">item</mark>, and in that example, <mark style="background-color:aqua;">array</mark> is the name previously given to some array.
