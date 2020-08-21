@@ -1,11 +1,11 @@
 # main links
 main:
-  - title: "Schedule"
-    url: /schedule/
-  - title: "Policies"
-    url: /policies/
-  - title: "Office Hours"
-    url: /office_hours/
+  #- title: "Schedule"
+  #  url: /schedule/
+  #- title: "Policies"
+  #  url: /policies/
+  #- title: "Office Hours"
+  #  url: /office_hours/
   - title: "Textbook"
     url: /textbook/
   - title: "Resources"
