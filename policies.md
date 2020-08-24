@@ -29,7 +29,7 @@ The coursework will consist of weekly homework assignments, weekly labs, a midte
 
 ### Late Submission Policy
 
-Labs must be submitted by the end of the lab session. Homework assignments must be submitted by the date and time they are due. Work submitted late will not count for credit. 
+Labs must be submitted by the end of the next day after the lab session.  Homework assignments must be submitted by the date and time they are due. Work submitted late will not count for credit. 
 
 ### Regrading Policy
 
