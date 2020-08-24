@@ -16,7 +16,7 @@ Our primary text is the online book called [Computational and Inferential Thinki
 
 ### Grades
 
-The coursework will consist of weekly homework assignments, weekly labs, a midterm exam and a final exam. The lowest two homework grades and the lowest two lab grades will be dropped from your homework and lab totals.  The grading scheme is shown below (*Update: 3/22/2020*):
+The coursework will consist of weekly homework assignments, weekly labs, a midterm exam and a final exam. The lowest two homework grades and the lowest two lab grades will be dropped from your homework and lab totals.  The grading scheme is shown below:
 
 | Activity        | Grade      | 
 | :-------------: | :--------: | 
