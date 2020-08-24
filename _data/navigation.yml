@@ -2,8 +2,8 @@
 main:
   #- title: "Schedule"
   #  url: /schedule/
-  #- title: "Policies"
-  #  url: /policies/
+  - title: "Policies"
+    url: /policies/
   #- title: "Office Hours"
   #  url: /office_hours/
   - title: "Textbook"
