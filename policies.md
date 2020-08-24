@@ -20,9 +20,11 @@ The coursework will consist of weekly homework assignments, weekly labs, a midte
 
 | Activity        | Grade      | 
 | :-------------: | :--------: | 
-| Homework        | 45%        | 
-| Labs            | 25%        | 
+| Homework        | 25%        | 
+| Labs            | 15%        | 
 | Midterm Exam    | 30%        | 
+| Final Exam      | 30%        | 
+
 
 
 ### Late Submission Policy
