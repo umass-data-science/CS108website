@@ -10,6 +10,8 @@ main:
     url: /textbook/
   - title: "Resources"
     url: /resources/
+  - title: "Course material"
+    url: /material/
 
 # Textbook sidebar - don't edit these directly
 sidebar-textbook:
