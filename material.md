@@ -7,6 +7,7 @@ permalink: /material/
 
 
 ### Module 1:
+Reading: Chapter [1](https://umass-data-science.github.io/190fwebsite/textbook/01/what-is-data-science/), [2](https://umass-data-science.github.io/190fwebsite/textbook/02/causality-and-experiments/), [3](https://umass-data-science.github.io/190fwebsite/textbook/03/programming-in-python/)
 [Slides](https://github.com/umass-data-science/current-CS108/raw/master/modules/module%201/module%201.pptx)  
 Lab  
 Homework
