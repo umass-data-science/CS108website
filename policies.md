@@ -20,16 +20,16 @@ The coursework will consist of weekly homework assignments, weekly labs, a midte
 
 | Activity        | Grade      | 
 | :-------------: | :--------: | 
-| Homework        | 25%        | 
-| Labs            | 15%        | 
-| Midterm Exam    | 30%        | 
-| Final Exam      | 30%        | 
+| Homework        | 35%        | 
+| Labs            | 20%        | 
+| Midterm Exam    | 20%        | 
+| Final Exam      | 25%        | 
 
 
 
 ### Late Submission Policy
 
-Labs must be submitted by the end of the next day after the lab session.  Homework assignments must be submitted by the date and time they are due. Work submitted late will not count for credit. 
+Homework assignments and labs must be submitted by the date and time they are due. Work submitted late will not count for credit. 
 
 ### Regrading Policy
 
@@ -37,11 +37,13 @@ Errors in grading of assignments, labs and exams can occur despite the best effo
 
 ### Homework Collaboration Policy
 
-You are encouraged to discuss homework problems with other students; however, to avoid issues with the course’s academic honesty policy, you should not take any materials out of such discussions (writing, whiteboard photos, code, etc.). You should never share your completed or in-progress code or write-up with another student in any form, or request to see another student’s code or write-up. Your code and written solutions must be your own work. 
+You are encouraged to discuss **homework** problems with other students; however, to avoid issues with the course’s academic honesty policy, you should not take any materials out of such discussions (writing, whiteboard photos, code, etc.). You should never share your completed or in-progress code or write-up with another student in any form, or request to see another student’s code or write-up. Your code and written solutions must be your own work. 
+
+For **labs** you can work coopertatively in class and you can share code with the people you are working with.  
 
 ### Course Academic Honesty Statement
 
-Copying any solution materials from external sources (books, web pages, etc.) or from other students is considered cheating. Sharing your code or solutions with other students is also considered cheating. All instances of suspected cheating will be dealt with through official UMass Amherst Academic Honesty Procedures. Students are expected to be familiar with the relevant policies and procedures:
+Copying any homework solution materials from external sources (books, web pages, etc.) or from other students is considered cheating. Sharing your code or solutions with other students is also considered cheating. All instances of suspected cheating will be dealt with through official UMass Amherst Academic Honesty Procedures. Students are expected to be familiar with the relevant policies and procedures:
 [http://www.umass.edu/honesty/](http://www.umass.edu/honesty/)
 
 ### UMass Academic Honesty Statement
