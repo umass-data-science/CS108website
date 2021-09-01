@@ -7,7 +7,7 @@ permalink: /material/
 
 ### Setup
 
-[Setup](http://datahub2.cs.umass.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fumass-data-science%2Fcurrent-CS108&urlpath=tree%2Fcurrent-CS108%2Fmodules%2Fmodule+1%2Flab01%2FSetup_Modules.ipynb&branch=master)
+[Setup](http://datahub2.cs.umass.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fumass-data-science%2Fcurrent-CS108&urlpath=tree%2Fcurrent-CS108%2Fmodules%2Fmodule+1%2FSetup_Modules.ipynb&branch=master)
 
 ### Module 1:
 Reading: Chapters [1](https://umass-data-science.github.io/190fwebsite/textbook/01/what-is-data-science/), [2](https://umass-data-science.github.io/190fwebsite/textbook/02/causality-and-experiments/), [3](https://umass-data-science.github.io/190fwebsite/textbook/03/programming-in-python/)  
