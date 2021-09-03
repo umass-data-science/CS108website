@@ -22,7 +22,7 @@ name                     : "UMass 190F"
 description              : ""
 url                      : "https://umass-data-science.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io" #mjasim - raw value was https://predictablynoisy.com
 baseurl                  : "/190fwebsite" # the subpath of your site, e.g. "/blog"
-hub_url                  : "http://datahub.cs.umass.edu"  # The URL for your JupyterHub. Should be a string. #mjasim - raw value was 104.155.140.67
+hub_url                  : "http://datahub2.cs.umass.edu"  # The URL for your JupyterHub. Should be a string. #mjasim - raw value was 104.155.140.67
 hub_name                 : "DataHub"  # The name of your JupyterHub
 textbook_url             : "https://github.com/umass-data-science/190fwebsite"  # The URL for your version of the textbook on GitHub. #mjasim - raw value was https://github.com/data-8/textbook
 textbook_branch          : "master"  # The branch on which your textbook is hosted. #mjasim - raw values was gh-pages
