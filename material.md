@@ -32,9 +32,9 @@ Reading:  Chapters [7](https://umass-data-science.github.io/190fwebsite/textbook
 [Slides](https://github.com/umass-data-science/current-CS108/raw/master/modules/module%203/module%203.pptx)  
 Demos:  [3.0](http://datahub2.cs.umass.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fumass-data-science%2Fcurrent-CS108&urlpath=tree%2Fcurrent-CS108%2Fmodules%2Fmodule+3%2F3.0.ipynb&branch=master)
 
-Lab  
+[Lab](http://datahub2.cs.umass.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fumass-data-science%2Fcurrent-CS108&urlpath=tree%2Fcurrent-CS108%2Fmodules%2Fmodule+3%2Flab03%2Flab03.ipynb&branch=master)  
 
-Homework
+[Homework](http://datahub2.cs.umass.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fumass-data-science%2Fcurrent-CS108&urlpath=tree%2Fcurrent-CS108%2Fmodules%2Fmodule+3%2Fhw03%2Fhw03.ipynb&branch=master) 
 
 ### Module 4:
 Reading:  
