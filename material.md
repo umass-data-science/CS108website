@@ -37,7 +37,7 @@ Demos:  [3.0](http://datahub2.cs.umass.edu/hub/user-redirect/git-pull?repo=https
 [Homework](http://datahub2.cs.umass.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fumass-data-science%2Fcurrent-CS108&urlpath=tree%2Fcurrent-CS108%2Fmodules%2Fmodule+3%2Fhw03%2Fhw03.ipynb&branch=master) 
 
 ### Module 4:
-Reading:  
+Reading:  Chapters [8](https://umass-data-science.github.io/190fwebsite/textbook/08/functions-and-tables/)  
 [Slides](https://github.com/umass-data-science/current-CS108/raw/master/modules/module%204/module%204.pptx)  
 Demos:  [4.1](http://datahub2.cs.umass.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fumass-data-science%2Fcurrent-CS108&urlpath=tree%2Fcurrent-CS108%2Fmodules%2Fmodule+4%2F4.1.ipynb&branch=master)
 
@@ -46,7 +46,7 @@ Demos:  [4.1](http://datahub2.cs.umass.edu/hub/user-redirect/git-pull?repo=https
 [Homework](http://datahub2.cs.umass.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fumass-data-science%2Fcurrent-CS108&urlpath=tree%2Fcurrent-CS108%2Fmodules%2Fmodule+4%2Fhw04%2Fhw04.ipynb&branch=master) 
 
 ### Module 5:
-Reading:  
+Reading:  Chapters [9](https://umass-data-science.github.io/190fwebsite/textbook/09/randomness/) [10](https://umass-data-science.github.io/190fwebsite/textbook/10/sampling-and-empirical-distributions/) [11](https://umass-data-science.github.io/190fwebsite/textbook/11/testing-hypotheses/)  
 [Slides](https://github.com/umass-data-science/current-CS108/raw/master/modules/module%205/module%205.pptx)  
 Demos:  
 Lab  
