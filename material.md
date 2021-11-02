@@ -75,7 +75,8 @@ Reading:
 [Slides](https://github.com/umass-data-science/current-CS108/raw/master/modules/module%207/module%207.pptx)  
 Demos:  
 Lab  
-Homework
+
+[Homework](http://datahub2.cs.umass.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fumass-data-science%2Fcurrent-CS108&urlpath=tree%2Fcurrent-CS108%2Fmodules%2Fmodule+7%2Fhw07%2Fhw07.ipynb&branch=master) 
 
 ### Module 8:
 Reading:  
