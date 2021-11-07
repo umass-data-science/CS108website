@@ -61,7 +61,7 @@ Demos:  [5.1](http://datahub2.cs.umass.edu/hub/user-redirect/git-pull?repo=https
 [review_notebook](http://datahub2.cs.umass.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fumass-data-science%2Fcurrent-CS108&urlpath=tree%2Fcurrent-CS108%2FExams%2Fmidterm_exam_review.ipynb&branch=master) 
 
 ### Module 6:
-Reading:  
+Reading:  Ch. 12
 [Slides](https://github.com/umass-data-science/current-CS108/raw/master/modules/module%206/module%206.pptx) 
 
 Demos:  We followed the demos in the textbook exactly.  You can click on the "interact" button in each section.
@@ -71,7 +71,7 @@ Demos:  We followed the demos in the textbook exactly.  You can click on the "in
 [Homework](http://datahub2.cs.umass.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fumass-data-science%2Fcurrent-CS108&urlpath=tree%2Fcurrent-CS108%2Fmodules%2Fmodule+6%2Fhw06%2Fhw06.ipynb&branch=master) 
 
 ### Module 7:
-Reading: 
+Reading: Ch. 13
 [Slides](https://github.com/umass-data-science/current-CS108/raw/master/modules/module%207/module%207.pptx)  
 
 Demos:  [lec24](http://datahub2.cs.umass.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fumass-data-science%2Fcurrent-CS108&urlpath=tree%2Fcurrent-CS108%2Fmodules%2Fmodule+7%2Flec24.ipynb&branch=master)
@@ -85,7 +85,7 @@ Demos:  [lec24](http://datahub2.cs.umass.edu/hub/user-redirect/git-pull?repo=htt
 [Homework](http://datahub2.cs.umass.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fumass-data-science%2Fcurrent-CS108&urlpath=tree%2Fcurrent-CS108%2Fmodules%2Fmodule+7%2Fhw07%2Fhw07.ipynb&branch=master) 
 
 ### Module 8:
-Reading:  
+Reading:  Ch. 14
 [Slides](https://github.com/umass-data-science/current-CS108/raw/master/modules/module%208/module%208.pptx)  
 Demos:   
 Lab  
