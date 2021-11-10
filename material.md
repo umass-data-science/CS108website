@@ -87,9 +87,11 @@ Demos:  [lec24](http://datahub2.cs.umass.edu/hub/user-redirect/git-pull?repo=htt
 ### Module 8:
 Reading:  Ch. 14
 [Slides](https://github.com/umass-data-science/current-CS108/raw/master/modules/module%208/module%208.pptx)  
-Demos:   
-Lab  
-Homework
+Demos:  
+
+[Lab](http://datahub2.cs.umass.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fumass-data-science%2Fcurrent-CS108&urlpath=tree%2Fcurrent-CS108%2Fmodules%2Fmodule+8%2Flab08%2Flab08.ipynb&branch=master)   
+
+[Homework](http://datahub2.cs.umass.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fumass-data-science%2Fcurrent-CS108&urlpath=tree%2Fcurrent-CS108%2Fmodules%2Fmodule+8%2Fhw08%2Fhw08.ipynb&branch=master) 
 
 ### Module 9:
 Reading:  
