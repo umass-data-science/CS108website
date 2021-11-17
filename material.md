@@ -95,6 +95,19 @@ Homework
 Reading:  
 [Slides](https://github.com/umass-data-science/current-CS108/raw/master/modules/module%209/module%209.pptx)  
 Demos:  
+
+[lec30](http://datahub2.cs.umass.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fumass-data-science%2Fcurrent-CS108&urlpath=tree%2Fcurrent-CS108%2Fmodules%2Fmodule+9%2Flec30.ipynb&branch=master)
+
+[lec31](http://datahub2.cs.umass.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fumass-data-science%2Fcurrent-CS108&urlpath=tree%2Fcurrent-CS108%2Fmodules%2Fmodule+9%2Flec31.ipynb&branch=master)
+
+[lec32](http://datahub2.cs.umass.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fumass-data-science%2Fcurrent-CS108&urlpath=tree%2Fcurrent-CS108%2Fmodules%2Fmodule+9%2Flec32.ipynb&branch=master)
+
+[lec33](http://datahub2.cs.umass.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fumass-data-science%2Fcurrent-CS108&urlpath=tree%2Fcurrent-CS108%2Fmodules%2Fmodule+9%2Flec33.ipynb&branch=master)
+
+[lec34](http://datahub2.cs.umass.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fumass-data-science%2Fcurrent-CS108&urlpath=tree%2Fcurrent-CS108%2Fmodules%2Fmodule+9%2Flec34.ipynb&branch=master)
+
+
+
 Lab  
 Homework
 
