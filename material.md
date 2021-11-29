@@ -110,7 +110,7 @@ Demos:
 
 [Lab](http://datahub2.cs.umass.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fumass-data-science%2Fcurrent-CS108&urlpath=tree%2Fcurrent-CS108%2Fmodules%2Fmodule+9%2Flab09%2Flab09.ipynb&branch=master)  
 
-Homework:
+[Homework](http://datahub2.cs.umass.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fumass-data-science%2Fcurrent-CS108&urlpath=tree%2Fcurrent-CS108%2Fmodules%2Fmodule+9%2Fhw09%2Fhw09.ipynb&branch=master) 
 
 ### Module 10:
 Reading:  
