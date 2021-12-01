@@ -116,7 +116,11 @@ Demos:
 Reading:  
 [Slides](https://github.com/umass-data-science/current-CS108/raw/master/modules/module%2010/module%2010.pptx)  
 Demos:  
-Lab  
+
+[Lab](http://datahub2.cs.umass.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fumass-data-science%2Fcurrent-CS108&urlpath=tree%2Fcurrent-CS108%2Fmodules%2Fmodule+10%2Flab10%2Fend_of_semester_lab.ipynb&branch=master) 
+
+end_of_semester_lab-solution
+
 Homework
 
 
