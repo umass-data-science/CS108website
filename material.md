@@ -118,8 +118,8 @@ Reading:
 Demos:  
 
 [Lab](http://datahub2.cs.umass.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fumass-data-science%2Fcurrent-CS108&urlpath=tree%2Fcurrent-CS108%2Fmodules%2Fmodule+10%2Flab10%2Fend_of_semester_lab.ipynb&branch=master) 
+[end_of_semester_lab-solution](http://datahub2.cs.umass.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fumass-data-science%2Fcurrent-CS108&urlpath=tree%2Fcurrent-CS108%2Fmodules%2Fmodule+10%2Flab10%2Fend_of_semester_lab-solution.ipynb&branch=master) 
 
-end_of_semester_lab-solution
 
 Homework
 
