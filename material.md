@@ -40,6 +40,8 @@ Demos:  [3.0](http://datahub2.cs.umass.edu/hub/user-redirect/git-pull?repo=https
 Reading:  Chapters [8](https://umass-data-science.github.io/190fwebsite/textbook/08/functions-and-tables/)  
 [Slides](https://github.com/umass-data-science/current-CS108/raw/master/modules/module%204/module%204.pptx)  
 Demos:  [4.1](http://datahub2.cs.umass.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fumass-data-science%2Fcurrent-CS108&urlpath=tree%2Fcurrent-CS108%2Fmodules%2Fmodule+4%2F4.1.ipynb&branch=master)
+[4.2](http://datahub2.cs.umass.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fumass-data-science%2Fcurrent-CS108&urlpath=tree%2Fcurrent-CS108%2Fmodules%2Fmodule+4%2F4.2.ipynb&branch=master)
+[4.3](http://datahub2.cs.umass.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fumass-data-science%2Fcurrent-CS108&urlpath=tree%2Fcurrent-CS108%2Fmodules%2Fmodule+4%2F4.3.ipynb&branch=master)
 
 [Lab04](http://datahub2.cs.umass.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fumass-data-science%2Fcurrent-CS108&urlpath=tree%2Fcurrent-CS108%2Fmodules%2Fmodule+4%2Flab04%2Flab04.ipynb&branch=master)  
 
