@@ -51,9 +51,10 @@ Demos:  [4.1](http://datahub2.cs.umass.edu/hub/user-redirect/git-pull?repo=https
 Reading:  Chapters [9](https://umass-data-science.github.io/190fwebsite/textbook/09/randomness/) [10](https://umass-data-science.github.io/190fwebsite/textbook/10/sampling-and-empirical-distributions/) [11](https://umass-data-science.github.io/190fwebsite/textbook/11/testing-hypotheses/)  
 [Slides](https://github.com/umass-data-science/current-CS108/raw/master/modules/module%205/module%205.pptx)  
 
-Demos:  [5.1](http://datahub2.cs.umass.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fumass-data-science%2Fcurrent-CS108&urlpath=tree%2Fcurrent-CS108%2Fmodules%2Fmodule+5%2Flec13.ipynb&branch=master)
-[5.2](http://datahub2.cs.umass.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fumass-data-science%2Fcurrent-CS108&urlpath=tree%2Fcurrent-CS108%2Fmodules%2Fmodule+5%2Flec14.ipynb&branch=master)
-[5.3](http://datahub2.cs.umass.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fumass-data-science%2Fcurrent-CS108&urlpath=tree%2Fcurrent-CS108%2Fmodules%2Fmodule+5%2Flec15.ipynb&branch=master)
+Demos:  [5.1](http://datahub2.cs.umass.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fumass-data-science%2Fcurrent-CS108&urlpath=tree%2Fcurrent-CS108%2Fmodules%2Fmodule+5%2F5.1.ipynb&branch=master)
+[5.2](http://datahub2.cs.umass.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fumass-data-science%2Fcurrent-CS108&urlpath=tree%2Fcurrent-CS108%2Fmodules%2Fmodule+5%2F5.2.ipynb&branch=master)
+[5.3](http://datahub2.cs.umass.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fumass-data-science%2Fcurrent-CS108&urlpath=tree%2Fcurrent-CS108%2Fmodules%2Fmodule+5%2F5.3.ipynb&branch=master)
+[5.4](http://datahub2.cs.umass.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fumass-data-science%2Fcurrent-CS108&urlpath=tree%2Fcurrent-CS108%2Fmodules%2Fmodule+5%2F5.4.ipynb&branch=master)
 
 [Lab05](http://datahub2.cs.umass.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fumass-data-science%2Fcurrent-CS108&urlpath=tree%2Fcurrent-CS108%2Fmodules%2Fmodule+5%2Flab05%2Flab05.ipynb&branch=master)  
 
