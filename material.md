@@ -11,7 +11,7 @@ permalink: /material/
 
 ### Module 1:
 Reading: Chapters [1](https://umass-data-science.github.io/190fwebsite/textbook/01/what-is-data-science/), [2](https://umass-data-science.github.io/190fwebsite/textbook/02/causality-and-experiments/), [3](https://umass-data-science.github.io/190fwebsite/textbook/03/programming-in-python/)  
-[Slides](https://github.com/pmugambi/cs108-fa22/raw/main/module1/1-slides.pptx)  
+[Slides](https://github.com/pmugambi/cs108-fa22/raw/main/module1/1-slides.pdf)  
 Class Demos: [1.1](http://datahub2.cs.umass.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fpmugambi%2Fcs108-fa22&urlpath=tree%2Fcs108-fa22%2Fmodule1%2F1-in_class_code_and_data%2F1.0-intro_to_python.ipynb&branch=main), [1.2](http://datahub2.cs.umass.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fpmugambi%2Fcs108-fa22&urlpath=tree%2Fcs108-fa22%2Fmodule1%2F1-in_class_code_and_data%2F1.1-adventures_of_huckleberry_finn_and_little_women_visualization.ipynb&branch=main), 
 [1.3](http://datahub2.cs.umass.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fpmugambi%2Fcs108-fa22&urlpath=tree%2Fcs108-fa22%2Fmodule1%2F1-in_class_code_and_data%2F1.2-real_vs_fake_news_visualization.ipynb&branch=main)  
 
