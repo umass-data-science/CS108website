@@ -29,7 +29,7 @@ Demos: [2.1](http://datahub2.cs.umass.edu/hub/user-redirect/git-pull?repo=https%
 [Lab02](http://datahub2.cs.umass.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fumass-data-science%2Fcurrent-CS108&urlpath=tree%2Fcurrent-CS108%2Fmodules%2Fmodule+2%2Flab02%2FLab02.ipynb&branch=master)  
 
 [Homework02](http://datahub2.cs.umass.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fumass-data-science%2Fcurrent-CS108&urlpath=tree%2Fcurrent-CS108%2Fmodules%2Fmodule+2%2Fhw02%2Fhw02.ipynb&branch=master)
--->
+--->
 
 ### Module 3:
 Reading:  Chapters [7](https://umass-data-science.github.io/190fwebsite/textbook/07/data-types/)
