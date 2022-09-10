@@ -22,7 +22,7 @@ Class Demos: [1.1](http://datahub2.cs.umass.edu/hub/user-redirect/git-pull?repo=
 
 ### Module 2:
 Reading: Chapters [4](https://umass-data-science.github.io/190fwebsite/textbook/04/data-types/), [5](https://umass-data-science.github.io/190fwebsite/textbook/05/sequences/), [6](https://umass-data-science.github.io/190fwebsite/textbook/06/tables/)
-
+[Slides](https://github.com/pmugambi/cs108-fa22/raw/main/module2/2-slides.pdf) 
 Class Demos: [2.1](http://datahub2.cs.umass.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fpmugambi%2Fcs108-fa22&urlpath=tree%2Fcs108-fa22%2Fmodule2%2F2-in_class_code_and_data%2F2.1-examples_of_numbers_strings_types_ranges_and_arrays.ipynb&branch=main), 
 [2.2](http://datahub2.cs.umass.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fpmugambi%2Fcs108-fa22&urlpath=tree%2Fcs108-fa22%2Fmodule2%2F2-in_class_code_and_data%2F2.2-examples_of_working_with_tables_especially_table_functions.ipynb&branch=main), 
 [2.3](http://datahub2.cs.umass.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fpmugambi%2Fcs108-fa22&urlpath=tree%2Fcs108-fa22%2Fmodule2%2F2-in_class_code_and_data%2F2.3-table_example_census_walk_through.ipynb&branch=main),
