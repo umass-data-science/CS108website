@@ -33,11 +33,11 @@ Class Demos: [2.1](http://datahub2.cs.umass.edu/hub/user-redirect/git-pull?repo=
 [Homework02](http://datahub2.cs.umass.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fpmugambi%2Fcs108-fa22&urlpath=tree%2Fcs108-fa22%2Fmodule2%2F2-hw%2Fhw02.ipynb&branch=main)  
 
 ### Module 3:
-Reading:  Chapters [7](https://umass-data-science.github.io/190fwebsite/textbook/07/data-types/)
-[Slides](https://github.com/pmugambi/cs108-fa22/blob/main/module3/3-slides.pdf)
+Reading:  Chapters [7](https://umass-data-science.github.io/190fwebsite/textbook/07/visualization/)
+[Slides](https://github.com/pmugambi/cs108-fa22/raw/main/module3/3-slides.pdf)
 Class Demos: [3.1](http://datahub2.cs.umass.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fpmugambi%2Fcs108-fa22&urlpath=tree%2Fcs108-fa22%2Fmodule3%2F3-in_class_code_and_data%2F3.1-chart_types_categorical_and_numerical_distributions.ipynb&branch=main)
 
-[Lab02](http://datahub2.cs.umass.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fpmugambi%2Fcs108-fa22&urlpath=tree%2Fcs108-fa22%2F%2Fmodule3%2F3-lab%2Flab03.ipynb&branch=main)
+[Lab03](http://datahub2.cs.umass.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fpmugambi%2Fcs108-fa22&urlpath=tree%2Fcs108-fa22%2F%2Fmodule3%2F3-lab%2Flab03.ipynb&branch=main)
 
 [Homework03](http://datahub2.cs.umass.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fpmugambi%2Fcs108-fa22&urlpath=tree%2Fcs108-fa22%2F%2Fmodule3%2F3-hw%2Fhw03.ipynb&branch=main)
 
