@@ -44,5 +44,14 @@ Class Demos: [3.1](http://datahub2.cs.umass.edu/hub/user-redirect/git-pull?repo=
 
 ### Module 4:
 Reading:  Chapters [8](https://umass-data-science.github.io/190fwebsite/textbook/08/functions-and-tables/)  
+[Slides](https://github.com/pmugambi/cs108-fa22/raw/main/module4/4-slides.pdf)
+Class Demos: [4.1](https://datahub2.cs.umass.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fpmugambi%2Fcs108-fa22&urlpath=tree%2Fcs108-fa22%2Fmodule4%2F4-in_class_code_and_data%2F4.1-functions_apply_prediction_groups_pivot_tables.ipynb&branch=main), [4.2](https://datahub2.cs.umass.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fpmugambi%2Fcs108-fa22&urlpath=tree%2Fcs108-fa22%2Fmodule4%2F4-in_class_code_and_data%2F4.2-take_home_question_on_starter_players_nba.ipynb&branch=main), [4.3](https://datahub2.cs.umass.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fpmugambi%2Fcs108-fa22&urlpath=tree%2Fcs108-fa22%2Fmodule4%2F4-in_class_code_and_data%2F4.3-joins.ipynb&branch=main)
+
+[Lab04](https://datahub2.cs.umass.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fpmugambi%2Fcs108-fa22&urlpath=tree%2Fcs108-fa22%2Fmodule4%2F4-lab%2Flab04.ipynb&branch=main)
+
+[Homework04](https://datahub2.cs.umass.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fpmugambi%2Fcs108-fa22&urlpath=tree%2Fcs108-fa22%2Fmodule4%2F4-hw%2Fhw04.ipynb&branch=main)
+
+### Module 5:
+Reading:  Chapters [9](https://umass-data-science.github.io/190fwebsite/textbook/09/randomness/) [10](https://umass-data-science.github.io/190fwebsite/textbook/10/sampling-and-empirical-distributions/) [11](https://umass-data-science.github.io/190fwebsite/textbook/11/testing-hypotheses/)
 
 
