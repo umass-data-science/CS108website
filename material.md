@@ -52,6 +52,14 @@ Class Demos: [4.1](https://datahub2.cs.umass.edu/hub/user-redirect/git-pull?repo
 [Homework04](https://datahub2.cs.umass.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fpmugambi%2Fcs108-fa22&urlpath=tree%2Fcs108-fa22%2Fmodule4%2F4-hw%2Fhw04.ipynb&branch=main)
 
 ### Module 5:
-Reading:  Chapters [9](https://umass-data-science.github.io/190fwebsite/textbook/09/randomness/) [10](https://umass-data-science.github.io/190fwebsite/textbook/10/sampling-and-empirical-distributions/) [11](https://umass-data-science.github.io/190fwebsite/textbook/11/testing-hypotheses/)
+Reading:  Chapters [9](https://umass-data-science.github.io/190fwebsite/textbook/09/randomness/) [10](https://umass-data-science.github.io/190fwebsite/textbook/10/sampling-and-empirical-distributions/)
+
+[Slides](https://github.com/pmugambi/cs108-fa22/raw/main/module5/5-slides.pdf)
+
+Class Demos: [5.1](http://datahub2.cs.umass.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fpmugambi%2Fcs108-fa22&urlpath=tree%2Fcs108-fa22%2Fmodule5%2F5-in_class_code_and_data%2F5.1-comparisons_conditionals_randomness_iteration_simulation_montyhall_and_probabilities.ipynb&branch=main), [5.2](http://datahub2.cs.umass.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fpmugambi%2Fcs108-fa22&urlpath=tree%2Fcs108-fa22%2Fmodule5%2F5-in_class_code_and_data%2F5.2-sampling_distributions_large_random_samples_and_statistic.ipynb&branch=main)
+
+[Lab05](http://datahub2.cs.umass.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fpmugambi%2Fcs108-fa22&urlpath=tree%2Fcs108-fa22%2Fmodule5%2F5-lab%2Flab05.ipynb&branch=main)
+
+[Homework05](http://datahub2.cs.umass.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fpmugambi%2Fcs108-fa22&urlpath=tree%2Fcs108-fa22%2Fmodule5%2F5-hw%2Fhw05.ipynb&branch=main)
 
 
