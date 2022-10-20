@@ -64,4 +64,6 @@ Class Demos: [5.1](http://datahub2.cs.umass.edu/hub/user-redirect/git-pull?repo=
 
 [Midterm-Review](https://datahub2.cs.umass.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fpmugambi%2Fcs108-fa22&urlpath=tree%2Fcs108-fa22%2Fexams%2Fmidterm_exam_review.ipynb&branch=main)
 
+[Midterm-Exam](http://datahub2.cs.umass.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fpmugambi%2Fcs108-fa22&urlpath=tree%2Fcs108-fa22%2Fexams%2Fmidterm%2Fmidterm_student.ipynb&branch=main)
+
 
