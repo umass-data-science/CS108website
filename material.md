@@ -64,5 +64,25 @@ Class Demos: [5.1](http://datahub2.cs.umass.edu/hub/user-redirect/git-pull?repo=
 
 [Midterm-Review](https://datahub2.cs.umass.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fpmugambi%2Fcs108-fa22&urlpath=tree%2Fcs108-fa22%2Fexams%2Fmidterm_exam_review.ipynb&branch=main)
 
+### Module 6:
+Reading: Chapters [11](https://umass-data-science.github.io/190fwebsite/textbook/11/testing-hypotheses/), [12](https://umass-data-science.github.io/190fwebsite/textbook/12/comparing-two-samples/)
+[Slides](https://github.com/pmugambi/cs108-fa22/raw/main/module6/6-slides.pdf)
 
+Class Demos: [6.1](http://datahub2.cs.umass.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fpmugambi%2Fcs108-fa22&urlpath=tree%2Fcs108-fa22%2Fmodule6%2F6-in_class_code_and_data%2F6.1%2520-%2520Assessing%2520Models.ipynb&branch=main), [6.2](http://datahub2.cs.umass.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fpmugambi%2Fcs108-fa22&urlpath=tree%2Fcs108-fa22%2Fmodule6%2F6-in_class_code_and_data%2F6.2%2520-%2520GSI%27s%2520Defense.ipynb&branch=main), [6.3](http://datahub2.cs.umass.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fpmugambi%2Fcs108-fa22&urlpath=tree%2Fcs108-fa22%2Fmodule6%2F6-in_class_code_and_data%2F6.3%2520-%2520AB%2520testing.ipynb&branch=main), [6.4](http://datahub2.cs.umass.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fpmugambi%2Fcs108-fa22&urlpath=tree%2Fcs108-fa22%2Fmodule6%2F6-in_class_code_and_data%2F6.4%2520-%2520Causality.ipynb&branch=main)
 
+[Lab06](http://datahub2.cs.umass.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fpmugambi%2Fcs108-fa22&urlpath=tree%2Fcs108-fa22%2Fmodule6%2F6-lab%2Flab06.ipynb&branch=main)
+
+[Homework06](http://datahub2.cs.umass.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fpmugambi%2Fcs108-fa22&urlpath=tree%2Fcs108-fa22%2Fmodule6%2F6-hw%2Fhw06.ipynb&branch=main)
+
+### Module 7:
+Reading: Chapter [13](https://umass-data-science.github.io/190fwebsite/textbook/13/estimation/)
+
+### Module 8:
+
+Reading: Chapter [14](https://umass-data-science.github.io/190fwebsite/textbook/14/why-the-mean-matters/)
+
+### Module 9:
+Reading: Chapters [15](https://umass-data-science.github.io/190fwebsite/textbook/15/prediction/), [16](https://umass-data-science.github.io/190fwebsite/textbook/16/inference-for-regression/)
+
+### Module 10:
+Reading: Chapters [17](https://umass-data-science.github.io/190fwebsite/textbook/17/classification/), [18](https://umass-data-science.github.io/190fwebsite/textbook/18/updating-predictions/)
