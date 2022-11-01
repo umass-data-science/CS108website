@@ -76,6 +76,13 @@ Class Demos: [6.1](http://datahub2.cs.umass.edu/hub/user-redirect/git-pull?repo=
 
 ### Module 7:
 Reading: Chapter [13](https://umass-data-science.github.io/190fwebsite/textbook/13/estimation/)
+[Slides](https://github.com/pmugambi/cs108-fa22/raw/main/module7/7-slides.pdf)
+
+Class Demos: [7.1](http://datahub2.cs.umass.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fpmugambi%2Fcs108-fa22&urlpath=tree%2Fcs108-fa22%2Fmodule7%2F7-in_class_code_and_data%2F7.1%2520-%2520Percentiles%252C%2520Bootstrap%252C%2520Confidence%2520Intervals.ipynb&branch=main), [7.2](http://datahub2.cs.umass.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fpmugambi%2Fcs108-fa22&urlpath=tree%2Fcs108-fa22%2Fmodule7%2F7-in_class_code_and_data%2F7.2%2520-%2520Bootstrap%252C%2520Example%25202.ipynb&branch=main), [7.3](http://datahub2.cs.umass.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fpmugambi%2Fcs108-fa22&urlpath=tree%2Fcs108-fa22%2Fmodule7%2F7-in_class_code_and_data%2F7.3%2520-%2520Confidence%2520interval%252C%2520Example%25202.ipynb&branch=main), [7.4](http://datahub2.cs.umass.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fpmugambi%2Fcs108-fa22&urlpath=tree%2Fcs108-fa22%2Fmodule7%2F7-in_class_code_and_data%2F7.4%2520-%2520Confidence%2520intervals%2520in-class%2520Exercise.ipynb&branch=main)
+
+[Lab07](http://datahub2.cs.umass.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fpmugambi%2Fcs108-fa22&urlpath=tree%2Fcs108-fa22%2Fmodule7%2F7-lab%2Flab07.ipynb&branch=main)
+
+[Homework07](http://datahub2.cs.umass.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fpmugambi%2Fcs108-fa22&urlpath=tree%2Fcs108-fa22%2Fmodule7%2F7-hw%2Fhw07.ipynb&branch=main)
 
 ### Module 8:
 
