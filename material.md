@@ -87,6 +87,11 @@ Class Demos: [7.1](http://datahub2.cs.umass.edu/hub/user-redirect/git-pull?repo=
 ### Module 8:
 
 Reading: Chapter [14](https://umass-data-science.github.io/190fwebsite/textbook/14/why-the-mean-matters/)
+[Slides](https://github.com/pmugambi/cs108-fa22/raw/main/module8/8-slides.pdf)
+
+Class Demos: [8.1](http://datahub2.cs.umass.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fpmugambi%2Fcs108-fa22&urlpath=tree%2Fcs108-fa22%2Fmodule8%2F8-in_class_code_and_data%2F8.1%2520-%2520Average%252C%2520and%252C%2520Standard%2520Deviation.ipynb&branch=main), [8.2](http://datahub2.cs.umass.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fpmugambi%2Fcs108-fa22&urlpath=tree%2Fcs108-fa22%2Fmodule8%2F8-in_class_code_and_data%2F8.2%2520-%2520Chebyshev%27s%2520Bounds%252C%2520Standard%2520Units%252C%2520and%2520the%2520Bell%2520Curve.ipynb&branch=main)
+
+[Homework08](http://datahub2.cs.umass.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fpmugambi%2Fcs108-fa22&urlpath=tree%2Fcs108-fa22%2Fmodule8%2F8-hw%2Fhw08.ipynb&branch=main)
 
 ### Module 9:
 Reading: Chapters [15](https://umass-data-science.github.io/190fwebsite/textbook/15/prediction/), [16](https://umass-data-science.github.io/190fwebsite/textbook/16/inference-for-regression/)
