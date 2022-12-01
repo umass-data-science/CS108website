@@ -96,14 +96,14 @@ Class Demos: [8.1](http://datahub2.cs.umass.edu/hub/user-redirect/git-pull?repo=
 [Homework08](http://datahub2.cs.umass.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fpmugambi%2Fcs108-fa22&urlpath=tree%2Fcs108-fa22%2Fmodule8%2F8-hw%2Fhw08.ipynb&branch=main)
 
 ### Module 9:
-Reading: Chapters [15](https://umass-data-science.github.io/190fwebsite/textbook/15/prediction/), [16](https://umass-data-science.github.io/190fwebsite/textbook/16/inference-for-regression/)
+Reading: Chapter [15](https://umass-data-science.github.io/190fwebsite/textbook/15/prediction/), 
 [Slides](https://github.com/pmugambi/cs108-fa22/raw/main/module9/9-slides.pdf)
 
-Class Demos: [9.1](http://datahub2.cs.umass.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fpmugambi%2Fcs108-fa22&urlpath=tree%2Fcs108-fa22%2Fmodule9%2F9-in_class_code_and_data%2F9.1%2520-%2520Prediction%252C%2520Association%252C%2520and%2520Correlation.ipynb&branch=main), [9.2](http://datahub2.cs.umass.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fpmugambi%2Fcs108-fa22&urlpath=tree%2Fcs108-fa22%2Fmodule9%2F9-in_class_code_and_data%2F9.2%2520-%2520Prediction%2520Lines.ipynb&branch=main)
+Class Demos: [9.1](http://datahub2.cs.umass.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fpmugambi%2Fcs108-fa22&urlpath=tree%2Fcs108-fa22%2Fmodule9%2F9-in_class_code_and_data%2F9.1%2520-%2520Prediction%252C%2520Association%252C%2520and%2520Correlation.ipynb&branch=main), [9.2](http://datahub2.cs.umass.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fpmugambi%2Fcs108-fa22&urlpath=tree%2Fcs108-fa22%2Fmodule9%2F9-in_class_code_and_data%2F9.2%2520-%2520Prediction%2520Lines.ipynb&branch=main), [9.3](http://datahub2.cs.umass.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fpmugambi%2Fcs108-fa22&urlpath=tree%2Fcs108-fa22%2Fmodule9%2F9-in_class_code_and_data%2F9.3%2520-%2520Numerical%2520Optimization.ipynb&branch=main), [9.4](http://datahub2.cs.umass.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fpmugambi%2Fcs108-fa22&urlpath=tree%2Fcs108-fa22%2Fmodule9%2F9-in_class_code_and_data%2F9.4%2520-%2520Residuals.ipynb&branch=main)
 
 [Lab09](http://datahub2.cs.umass.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fpmugambi%2Fcs108-fa22&urlpath=tree%2Fcs108-fa22%2Fmodule9%2F9-lab%2Flab09.ipynb&branch=main)
 
 [Homework09](http://datahub2.cs.umass.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fpmugambi%2Fcs108-fa22&urlpath=tree%2Fcs108-fa22%2Fmodule9%2F9-hw%2Fhw09.ipynb&branch=main)
 
 ### Module 10:
-Reading: Chapters [17](https://umass-data-science.github.io/190fwebsite/textbook/17/classification/), [18](https://umass-data-science.github.io/190fwebsite/textbook/18/updating-predictions/)
+Reading: Chapters [16](https://umass-data-science.github.io/190fwebsite/textbook/16/inference-for-regression/), [17](https://umass-data-science.github.io/190fwebsite/textbook/17/classification/), [18](https://umass-data-science.github.io/190fwebsite/textbook/18/updating-predictions/)
