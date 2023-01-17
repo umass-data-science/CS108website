@@ -4,7 +4,7 @@ This repository stores the course website for CS190f/CS108: Foundations of Data 
 This is a [Jekyll](https://jekyllrb.com/) website hosted on [GitHub Pages](https://pages.github.com/), which means the website can be updated easily by simply editing the Markdown files.
 
 # Deploy the site with GitHub Pages
-GitHub will automatically deploy the website to <https://umass-data-science.github.io/190fwebsite> when you push the configured branch, check on your GitHub repository > Settings > Pages.
+GitHub will automatically deploy the website to <https://umass-data-science.github.io/CS108website> when you push the configured branch, check on your GitHub repository > Settings > Pages.
 
 GitHub has [comprehensive documentation for deploying Jekyll sites on GitHub Pages](https://docs.github.com/en/pages/setting-up-a-github-pages-site-with-jekyll/about-github-pages-and-jekyll).
 
