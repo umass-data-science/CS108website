@@ -1,7 +1,9 @@
 # About
-This repository stores the course website for CS190f/CS108: Foundations of Data Science at UMass Amherst.
+This repository stores the course website for CS/STAT 108: Foundations of Data Science at UMass Amherst.
 
-This is a [Jekyll](https://jekyllrb.com/) website hosted on [GitHub Pages](https://pages.github.com/), which means the website can be updated easily by simply editing the Markdown files.
+This is a [Jekyll](https://jekyllrb.com/) website using the  [Minimal Mistakes](https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/) theme hosted on [GitHub Pages](https://pages.github.com/), which means the website can be updated easily by simply editing the Markdown files.
+
+You can add content to the website by adding posts as Markdown files in the `_posts` folder as described in [the Minimal Mistakes documentation](https://mmistakes.github.io/minimal-mistakes/docs/posts/).
 
 # Deploy the site with GitHub Pages
 GitHub will automatically deploy the website to <https://umass-data-science.github.io/CS108website> when you push the configured branch, check on your GitHub repository > Settings > Pages.
